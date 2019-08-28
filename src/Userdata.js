@@ -1,7 +1,7 @@
 const data=[
-	{id:0, firstname:"Ann ", lastname:"Marie"},
-	{id:1, firstname:"Louis ", lastname:"Fonsi"},
-	{id:2, firstname:"Lauvv ", lastname:"F"},
-	{id:3, firstname:"Manoj", lastname:"Singhi"}
+	{id:0, firstname:"A", lastname:"B"},
+	{id:1, firstname:"C", lastname:"D"},
+	{id:2, firstname:"E", lastname:"F"},
+	{id:3, firstname:"G", lastname:"H"}
 ]
 export default data
